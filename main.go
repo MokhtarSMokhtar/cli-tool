@@ -37,4 +37,6 @@ func main() {
 
 	// Execute the CLI with the passed arguments
 	cli.Execute()
+	//To run the example command
+	//go run main.go hello -name John
 }

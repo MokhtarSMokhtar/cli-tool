@@ -1,10 +1,10 @@
 package main
 
 import (
-	"cli-tool/cli"
-	"cli-tool/command"
 	"flag"
 	"fmt"
+	"github.com/MokhtarSMokhtar/cli-tool/cli"
+	"github.com/MokhtarSMokhtar/cli-tool/command"
 )
 
 func main() {

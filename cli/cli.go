@@ -1,8 +1,8 @@
 package cli
 
 import (
-	"cli-tool/command"
 	"fmt"
+	"github.com/MokhtarSMokhtar/cli-tool/command"
 	"os"
 )
 

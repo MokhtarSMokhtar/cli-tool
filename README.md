@@ -5,7 +5,6 @@ A simple CLI (Command-Line Interface) library in Go that allows you to create co
 ## Features
 
 - Register commands with aliases.
-- Define flags (string, int, bool) for each command.
 - Custom error handling for invalid flag parsing.
 - Run commands and print usage instructions.
 

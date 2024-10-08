@@ -7,6 +7,7 @@ import (
 )
 
 // CLI represents the main command-line interface that holds and manages all the registered commands.
+// more about struct https://github.com/MokhtarSMokhtar/Golan-Concepts/blob/main/pkg/structs/structs.go
 type CLI struct {
 	// Commands holds all the registered commands for the CLI.
 	Commands []*command.Command
